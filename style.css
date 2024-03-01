@@ -66,6 +66,6 @@ div a {
 
 div a:hover {
     background-color: #C4F82A;
+    transition: 0.s;
     color: #141414;
-    transition: 0.5s;
 }
